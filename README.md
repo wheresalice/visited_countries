@@ -4,7 +4,7 @@ This is very much designed around @kaerast's workflow.  You're welcome to use it
 
 Put a csv file of the countries visited in the root of this project called "TCC Countries - The Big List.csv".  This file has no headers, and the columns "country", "visited", "region".  Where visited is one of 0, 0.5, 1.
 
-Run csv2yaml.rb to generate the data files for Jekyll to use
+Run generate.rb to generate the data files for Jekyll to use
 
 Run jekyll serve
 

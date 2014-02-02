@@ -105,3 +105,8 @@ li.visited1 {
 h2 a {
   color: #111;
 }
+
+div.count {
+  background: #7FDBFF;
+  margin-bottom: 2rem;
+}

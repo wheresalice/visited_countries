@@ -14,6 +14,7 @@
 <body>
   <div class="container">
     <h1><a href="./" name="top">{{ site.h1_tag_text }}</a></h1>
+    <div class="count">{% include count.md %}</div>
     
     {% for region in site.data %}
     * <a href="#{{ region[0] }}">{{ region[0] | replace: '_', ' ' | capitalize }}</a>
