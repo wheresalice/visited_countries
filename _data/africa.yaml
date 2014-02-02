@@ -1,0 +1,216 @@
+- name: Algeria
+  visited: 0
+  region: Africa
+
+- name: Angola
+  visited: 0
+  region: Africa
+
+- name: Benin (Dahomey)
+  visited: 0
+  region: Africa
+
+- name: Botswana (Bechuanaland)
+  visited: 0
+  region: Africa
+
+- name: Burkina Faso (Upper Volta)
+  visited: 0
+  region: Africa
+
+- name: Burundi (Urundi)
+  visited: 0
+  region: Africa
+
+- name: Cabinda
+  visited: 0
+  region: Africa
+
+- name: Cameroon
+  visited: 0
+  region: Africa
+
+- name: Central African Republic
+  visited: 0
+  region: Africa
+
+- name: Chad
+  visited: 0
+  region: Africa
+
+- name: Republic of Congo
+  visited: 0
+  region: Africa
+
+- name: Democratic Republic of Congo
+  visited: 0
+  region: Africa
+
+- name: Djibouti
+  visited: 0
+  region: Africa
+
+- name: Egypt
+  visited: 0
+  region: Africa
+
+- name: Equatorial Guinea (Rio Muni, Fernando Poo)
+  visited: 0
+  region: Africa
+
+- name: Eritrea
+  visited: 0
+  region: Africa
+
+- name: Ethiopia
+  visited: 0
+  region: Africa
+
+- name: Gabon
+  visited: 0
+  region: Africa
+
+- name: Gambia
+  visited: 0
+  region: Africa
+
+- name: Ghana (Gold Coast, British Togoland)
+  visited: 0
+  region: Africa
+
+- name: Guinea (French)
+  visited: 0
+  region: Africa
+
+- name: Guinea-Bissau
+  visited: 0
+  region: Africa
+
+- name: Ivory Coast
+  visited: 0
+  region: Africa
+
+- name: Kenya
+  visited: 0
+  region: Africa
+
+- name: Lesotho (Basutoland)
+  visited: 0
+  region: Africa
+
+- name: Liberia
+  visited: 0
+  region: Africa
+
+- name: Libya
+  visited: 0
+  region: Africa
+
+- name: Malawi (Nyasaland)
+  visited: 0
+  region: Africa
+
+- name: Mali
+  visited: 0
+  region: Africa
+
+- name: Mauritania
+  visited: 0
+  region: Africa
+
+- name: Morocco
+  visited: 0
+  region: Africa
+
+- name: Morocco,Spanish (Ceuta, Melilla)
+  visited: 0
+  region: Africa
+
+- name: Mozambique
+  visited: 0
+  region: Africa
+
+- name: Namibia
+  visited: 0
+  region: Africa
+
+- name: Niger
+  visited: 0
+  region: Africa
+
+- name: Nigeria
+  visited: 0
+  region: Africa
+
+- name: Rwanda
+  visited: 0
+  region: Africa
+
+- name: Sao Tome & Principe
+  visited: 0
+  region: Africa
+
+- name: Senegal
+  visited: 0
+  region: Africa
+
+- name: Sierra Leone
+  visited: 0
+  region: Africa
+
+- name: Somalia (Italian Somaliland)
+  visited: 0
+  region: Africa
+
+- name: Somaliland (Brit.)
+  visited: 0
+  region: Africa
+
+- name: South Africa
+  visited: 0
+  region: Africa
+
+- name: Sudan, North
+  visited: 0
+  region: Africa
+
+- name: Sudan, South
+  visited: 0
+  region: Africa
+
+- name: Swaziland
+  visited: 0
+  region: Africa
+
+- name: Tanzania (Tanganyika)
+  visited: 0
+  region: Africa
+
+- name: Togo
+  visited: 0
+  region: Africa
+
+- name: Tunisia
+  visited: 0
+  region: Africa
+
+- name: Uganda
+  visited: 0
+  region: Africa
+
+- name: Western Sahara (Spanish Sahara)
+  visited: 0
+  region: Africa
+
+- name: Zambia (No. Rhodesia)
+  visited: 0
+  region: Africa
+
+- name: Zanzibar
+  visited: 0
+  region: Africa
+
+- name: Zimbabwe (So. Rhodesia)
+  visited: 0
+  region: Africa
+

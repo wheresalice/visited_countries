@@ -1,0 +1,52 @@
+- name: Argentina
+  visited: 0
+  region: South America
+
+- name: Bolivia
+  visited: 0
+  region: South America
+
+- name: Brazil
+  visited: 0
+  region: South America
+
+- name: Chile
+  visited: 0
+  region: South America
+
+- name: Colombia
+  visited: 0
+  region: South America
+
+- name: Ecuador
+  visited: 0
+  region: South America
+
+- name: French Guiana
+  visited: 0
+  region: South America
+
+- name: Guyana (British Guiana)
+  visited: 0
+  region: South America
+
+- name: Paraguay
+  visited: 0
+  region: South America
+
+- name: Peru
+  visited: 0
+  region: South America
+
+- name: Suriname (Netherlands Guiana)
+  visited: 0
+  region: South America
+
+- name: Uruguay
+  visited: 0
+  region: South America
+
+- name: Venezuela
+  visited: 0
+  region: South America
+

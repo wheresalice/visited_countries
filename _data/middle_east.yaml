@@ -1,0 +1,80 @@
+- name: Abu Dhabi
+  visited: 0
+  region: Middle East
+
+- name: Ajman
+  visited: 0
+  region: Middle East
+
+- name: Bahrain
+  visited: 0
+  region: Middle East
+
+- name: Dubai
+  visited: 0
+  region: Middle East
+
+- name: Fujeirah
+  visited: 0
+  region: Middle East
+
+- name: Iran
+  visited: 0
+  region: Middle East
+
+- name: Iraq
+  visited: 0
+  region: Middle East
+
+- name: Israel
+  visited: 0
+  region: Middle East
+
+- name: Jordan
+  visited: 0
+  region: Middle East
+
+- name: Kuwait
+  visited: 0
+  region: Middle East
+
+- name: Lebanon
+  visited: 0
+  region: Middle East
+
+- name: Oman
+  visited: 0
+  region: Middle East
+
+- name: Palestine
+  visited: 0
+  region: Middle East
+
+- name: Qatar
+  visited: 0
+  region: Middle East
+
+- name: Ras Al Khaimah
+  visited: 0
+  region: Middle East
+
+- name: Saudi Arabia
+  visited: 0
+  region: Middle East
+
+- name: Sharjah
+  visited: 0
+  region: Middle East
+
+- name: Syria
+  visited: 0
+  region: Middle East
+
+- name: Umm Al Qaiwain
+  visited: 0
+  region: Middle East
+
+- name: Yemen
+  visited: 0
+  region: Middle East
+

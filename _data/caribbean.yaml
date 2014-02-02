@@ -1,0 +1,120 @@
+- name: Anguilla
+  visited: 0
+  region: Caribbean
+
+- name: Antigua & Deps. (Barbuda, Redonda)
+  visited: 0
+  region: Caribbean
+
+- name: Aruba
+  visited: 0
+  region: Caribbean
+
+- name: Bahamas
+  visited: 0
+  region: Caribbean
+
+- name: Barbados
+  visited: 0
+  region: Caribbean
+
+- name: Bonaire
+  visited: 0
+  region: Caribbean
+
+- name: Cayman Islands
+  visited: 0
+  region: Caribbean
+
+- name: Cuba
+  visited: 0
+  region: Caribbean
+
+- name: Curacao
+  visited: 0
+  region: Caribbean
+
+- name: Dominica
+  visited: 0
+  region: Caribbean
+
+- name: Dominican Republic
+  visited: 0
+  region: Caribbean
+
+- name: Grenada & Deps. (Carriacou, Grenadines)
+  visited: 0
+  region: Caribbean
+
+- name: Guadeloupe & Deps.(Marie Galante)
+  visited: 0
+  region: Caribbean
+
+- name: Haiti
+  visited: 0
+  region: Caribbean
+
+- name: Jamaica
+  visited: 0
+  region: Caribbean
+
+- name: Leeward Islands, French (St. Martin)
+  visited: 0
+  region: Caribbean
+
+- name: Leeward Islands, Netherlands (Saba, St. Eustatius)
+  visited: 0
+  region: Caribbean
+
+- name: Martinique
+  visited: 0
+  region: Caribbean
+
+- name: Montserrat
+  visited: 0
+  region: Caribbean
+
+- name: Puerto Rico
+  visited: 0
+  region: Caribbean
+
+- name: St. Barts
+  visited: 0
+  region: Caribbean
+
+- name: San Andres & Providencia
+  visited: 0
+  region: Caribbean
+
+- name: St. Kitts & Nevis
+  visited: 0
+  region: Caribbean
+
+- name: St. Lucia
+  visited: 0
+  region: Caribbean
+
+- name: St. Maarten (formerly Netherlands Antilles)
+  visited: 0
+  region: Caribbean
+
+- name: St. Vincent & Deps. (Bequia, Canouan Grenadines)
+  visited: 0
+  region: Caribbean
+
+- name: Trinidad & Tobago
+  visited: 0
+  region: Caribbean
+
+- name: Turks & Caicos Islands
+  visited: 0
+  region: Caribbean
+
+- name: Virgin Islands, U.S. (St. Croix, St. John, St. Thomas)
+  visited: 0
+  region: Caribbean
+
+- name: Virgin Islands, British (Tortola, etc.)
+  visited: 0
+  region: Caribbean
+

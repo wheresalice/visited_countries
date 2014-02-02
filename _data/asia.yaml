@@ -1,0 +1,204 @@
+- name: Abkhazia
+  visited: 0
+  region: Asia
+
+- name: Afghanistan
+  visited: 0
+  region: Asia
+
+- name: Armenia (Yerevan)
+  visited: 0
+  region: Asia
+
+- name: Azerbaijan (Baku)
+  visited: 0
+  region: Asia
+
+- name: Bangladesh
+  visited: 0
+  region: Asia
+
+- name: Bhutan
+  visited: 0
+  region: Asia
+
+- name: Brunei
+  visited: 0
+  region: Asia
+
+- name: Cambodia
+  visited: 0
+  region: Asia
+
+- name: China, People’s Republic
+  visited: 0
+  region: Asia
+
+- name: Georgia
+  visited: 0
+  region: Asia
+
+- name: Hainan Island
+  visited: 0
+  region: Asia
+
+- name: Hong Kong
+  visited: 1
+  region: Asia
+
+- name: India
+  visited: 0
+  region: Asia
+
+- name: Indonesia (Java)
+  visited: 0
+  region: Asia
+
+- name: Irian Jaya (Dutch New Guinea)
+  visited: 0
+  region: Asia
+
+- name: Japan
+  visited: 0
+  region: Asia
+
+- name: Jeju Island (South Korea)
+  visited: 0
+  region: Asia
+
+- name: Kalimantan (Indonesian Borneo)
+  visited: 0
+  region: Asia
+
+- name: Kashmir
+  visited: 0
+  region: Asia
+
+- name: Kazakhstan
+  visited: 0
+  region: Asia
+
+- name: Kyrgyzstan
+  visited: 0
+  region: Asia
+
+- name: Korea, North
+  visited: 0
+  region: Asia
+
+- name: Korea, South
+  visited: 0
+  region: Asia
+
+- name: Laos
+  visited: 0
+  region: Asia
+
+- name: Lesser Sunda Islands (Bali,Timor, Indonesia)
+  visited: 0
+  region: Asia
+
+- name: Macau
+  visited: 0
+  region: Asia
+
+- name: Malaysia
+  visited: 1
+  region: Asia
+
+- name: Moluka
+  visited: 0
+  region: Asia
+
+- name: Mongolia, Republic
+  visited: 0
+  region: Asia
+
+- name: Myanmar (Burma)
+  visited: 0
+  region: Asia
+
+- name: Nakhichevan
+  visited: 0
+  region: Asia
+
+- name: Nepal
+  visited: 0
+  region: Asia
+
+- name: Pakistan
+  visited: 0
+  region: Asia
+
+- name: Philippines
+  visited: 0
+  region: Asia
+
+- name: Sabah (No. Borneo)
+  visited: 0
+  region: Asia
+
+- name: Sarawak
+  visited: 0
+  region: Asia
+
+- name: Siberia (Russia in Asia)
+  visited: 0
+  region: Asia
+
+- name: Sikkim
+  visited: 0
+  region: Asia
+
+- name: Singapore
+  visited: 1
+  region: Asia
+
+- name: Sri Lanka (Ceylon)
+  visited: 0
+  region: Asia
+
+- name: Sulawesi (Celebes, Indonesia)
+  visited: 0
+  region: Asia
+
+- name: Sumatra (Indonesia)
+  visited: 0
+  region: Asia
+
+- name: Taiwan. R.O.C.
+  visited: 0
+  region: Asia
+
+- name: Tajikistan
+  visited: 0
+  region: Asia
+
+- name: Thailand
+  visited: 0
+  region: Asia
+
+- name: Tibet
+  visited: 0
+  region: Asia
+
+- name: Timor Leste
+  visited: 0
+  region: Asia
+
+- name: Turkey in Asia (Anatolia, Ankara, Izmir)
+  visited: 1
+  region: Asia
+
+- name: Turkmenistan
+  visited: 0
+  region: Asia
+
+- name: Uzbekistan
+  visited: 0
+  region: Asia
+
+- name: Vietnam
+  visited: 0.5
+  region: Asia
+
