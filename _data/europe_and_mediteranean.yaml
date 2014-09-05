@@ -163,7 +163,7 @@
   region: Europe & Mediteranean
 
 - name: Moldova
-  visited: 0
+  visited: 1
   region: Europe & Mediteranean
 
 - name: Monaco
@@ -191,7 +191,7 @@
   region: Europe & Mediteranean
 
 - name: Romania
-  visited: 0
+  visited: 1
   region: Europe & Mediteranean
 
 - name: Russia
@@ -247,7 +247,7 @@
   region: Europe & Mediteranean
 
 - name: Trans Dniester
-  visited: 0
+  visited: 1
   region: Europe & Mediteranean
 
 - name: Turkey in Europe (Istanbul)
