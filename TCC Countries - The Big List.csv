@@ -276,7 +276,7 @@ Bangladesh,,Asia
 Bhutan,,Asia
 Brunei,,Asia
 Cambodia,,Asia
-"China, People’s Republic",,Asia
+"China, People’s Republic",1,Asia
 Georgia,,Asia
 Hainan Island,,Asia
 Hong Kong,1,Asia
@@ -289,8 +289,8 @@ Kalimantan (Indonesian Borneo),,Asia
 Kashmir,,Asia
 Kazakhstan,1,Asia
 Kyrgyzstan,,Asia
-"Korea, North",,Asia
-"Korea, South",,Asia
+"Korea, North",0.5,Asia
+"Korea, South",1,Asia
 Laos,,Asia
 "Lesser Sunda Islands (Bali,Timor, Indonesia)",,Asia
 Macau,,Asia
