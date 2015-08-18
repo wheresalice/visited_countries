@@ -30,6 +30,10 @@
   visited: 0
   region: South America
 
+- name: Nueva Esparta (Margarita Island)
+  visited: 0
+  region: South America
+
 - name: Paraguay
   visited: 0
   region: South America

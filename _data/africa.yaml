@@ -50,11 +50,15 @@
   visited: 0
   region: Africa
 
-- name: Egypt
+- name: Egypt in Africa
   visited: 0
   region: Africa
 
-- name: Equatorial Guinea (Rio Muni, Fernando Poo)
+- name: Equatorial Guinea (Bioko Fernando Poo)
+  visited: 0
+  region: Africa
+
+- name: Equatorial Guinea (Rio Muni)
   visited: 0
   region: Africa
 
