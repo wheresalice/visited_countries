@@ -31,7 +31,7 @@
   region: Asia
 
 - name: China, People’s Republic
-  visited: 1
+  visited: 0.5
   region: Asia
 
 - name: Georgia
@@ -175,7 +175,7 @@
   region: Asia
 
 - name: Thailand
-  visited: 0
+  visited: 1
   region: Asia
 
 - name: Tibet
