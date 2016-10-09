@@ -27,7 +27,7 @@
   region: Europe & Mediteranean
 
 - name: Bosnia & Herzegovina (Sarajevo)
-  visited: 0
+  visited: 1
   region: Europe & Mediteranean
 
 - name: Bulgaria
@@ -43,7 +43,7 @@
   region: Europe & Mediteranean
 
 - name: Croatia
-  visited: 0
+  visited: 1
   region: Europe & Mediteranean
 
 - name: Cyprus, Republic
@@ -131,7 +131,7 @@
   region: Europe & Mediteranean
 
 - name: Kosovo
-  visited: 0
+  visited: 1
   region: Europe & Mediteranean
 
 - name: Lampedusa
@@ -155,7 +155,7 @@
   region: Europe & Mediteranean
 
 - name: Macedonia
-  visited: 0
+  visited: 1
   region: Europe & Mediteranean
 
 - name: Malta
@@ -171,7 +171,7 @@
   region: Europe & Mediteranean
 
 - name: Montenegro
-  visited: 0
+  visited: 1
   region: Europe & Mediteranean
 
 - name: Netherlands
@@ -211,7 +211,7 @@
   region: Europe & Mediteranean
 
 - name: Serbia
-  visited: 0
+  visited: 1
   region: Europe & Mediteranean
 
 - name: Sicily
@@ -223,7 +223,7 @@
   region: Europe & Mediteranean
 
 - name: Slovenia
-  visited: 0
+  visited: 1
   region: Europe & Mediteranean
 
 - name: Spain
@@ -235,7 +235,7 @@
   region: Europe & Mediteranean
 
 - name: Srpska
-  visited: 0
+  visited: 0.5
   region: Europe & Mediteranean
 
 - name: Sweden
