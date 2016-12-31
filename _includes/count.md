@@ -1,4 +1,4 @@
-visited countries: 63<br>
-countries left for provisional TCC membership: 12<br>
-countries left for full TCC membership: 37<br>
-percentage of countries visited: 19.44%<br>
+visited countries: 64<br>
+countries left for provisional TCC membership: 11<br>
+countries left for full TCC membership: 36<br>
+percentage of countries visited: 19.75%<br>
