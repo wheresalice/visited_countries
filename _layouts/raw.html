@@ -9,16 +9,18 @@
     <link rel="stylesheet" href="css/normalize.css">
     <link rel="stylesheet" href="css/syntax.css">
     <link rel="stylesheet" href="css/solo.css">
-    {% include head.html %}
 </head>
 <body>
 <div class="container">
-    <h1><a href="./" name="top">{{ site.h1_tag_text }}</a></h1>
+    <h1><a href="/" name="top">{{ site.h1_tag_text }}</a></h1>
     <div class="count">{% include count.md %}</div>
 
+    {% assign countries = site.data.countries %}
+
     <h3>Continents</h3>
-    {% for region in site.data | sort %}
-    * <a href="#{{ region[0] }}">{{ region[0] | replace: '_', ' ' | capitalize }}</a>
+    {% assign regions = countries | map:'region' | uniq | sort %}
+    {% for region in regions %}
+    * <a href="#{{ region }}">{{ region }}</a>
     {% endfor %}
 
     <h3>Key</h3>
@@ -28,10 +30,11 @@
         <li class="visited0">Not Visited</li>
     </ul>
 
-    {% for region in site.data %}
-    <h2><a name="{{ region[0] }}">{{ region[0] | replace: '_', ' ' | capitalize }}</a></h2>
+    {% for region in regions %}
+    <h2><a name="{{ region }}">{{ region }}</a></h2>
     <ul>
-        {% for country in region[1] %}
+        {% assign region_countries = countries | where: 'region', region %}
+        {% for country in region_countries %}
         <li class="visited{{ country.visited }}">
             {{ country.name }}
         </li>
@@ -39,10 +42,6 @@
     </ul>
     <a href="#top">top</a>
     {% endfor %}
-
-
-
 </div>
-{% include scripts.html %}
 </body>
 </html>

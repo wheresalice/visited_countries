@@ -1,3 +1,6 @@
 _site
-node_modules
-generate.sh
+.bundle
+.idea
+.jekyll-metadata
+.vendor
+*.ipynb

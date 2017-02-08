@@ -1,0 +1,1296 @@
+- name: Algeria
+  visited: 0
+  region: Africa
+
+- name: Angola
+  visited: 0
+  region: Africa
+
+- name: Benin (Dahomey)
+  visited: 0
+  region: Africa
+
+- name: Botswana (Bechuanaland)
+  visited: 0
+  region: Africa
+
+- name: Burkina Faso (Upper Volta)
+  visited: 0
+  region: Africa
+
+- name: Burundi (Urundi)
+  visited: 0
+  region: Africa
+
+- name: Cabinda
+  visited: 0
+  region: Africa
+
+- name: Cameroon
+  visited: 0
+  region: Africa
+
+- name: Central African Republic
+  visited: 0
+  region: Africa
+
+- name: Chad
+  visited: 0
+  region: Africa
+
+- name: Republic of Congo
+  visited: 0
+  region: Africa
+
+- name: Democratic Republic of Congo
+  visited: 0
+  region: Africa
+
+- name: Djibouti
+  visited: 0
+  region: Africa
+
+- name: Egypt in Africa
+  visited: 0
+  region: Africa
+
+- name: Equatorial Guinea (Bioko Fernando Poo)
+  visited: 0
+  region: Africa
+
+- name: Equatorial Guinea (Rio Muni)
+  visited: 0
+  region: Africa
+
+- name: Eritrea
+  visited: 0
+  region: Africa
+
+- name: Ethiopia
+  visited: 0
+  region: Africa
+
+- name: Gabon
+  visited: 0
+  region: Africa
+
+- name: Gambia
+  visited: 0
+  region: Africa
+
+- name: Ghana (Gold Coast, British Togoland)
+  visited: 0
+  region: Africa
+
+- name: Guinea (French)
+  visited: 0
+  region: Africa
+
+- name: Guinea-Bissau
+  visited: 0
+  region: Africa
+
+- name: Ivory Coast
+  visited: 0
+  region: Africa
+
+- name: Kenya
+  visited: 0
+  region: Africa
+
+- name: Lesotho (Basutoland)
+  visited: 0
+  region: Africa
+
+- name: Liberia
+  visited: 0
+  region: Africa
+
+- name: Libya
+  visited: 0
+  region: Africa
+
+- name: Malawi (Nyasaland)
+  visited: 0
+  region: Africa
+
+- name: Mali
+  visited: 0
+  region: Africa
+
+- name: Mauritania
+  visited: 0
+  region: Africa
+
+- name: Morocco
+  visited: 0
+  region: Africa
+
+- name: Morocco,Spanish (Ceuta, Melilla)
+  visited: 0
+  region: Africa
+
+- name: Mozambique
+  visited: 0
+  region: Africa
+
+- name: Namibia
+  visited: 0
+  region: Africa
+
+- name: Niger
+  visited: 0
+  region: Africa
+
+- name: Nigeria
+  visited: 0
+  region: Africa
+
+- name: Rwanda
+  visited: 0
+  region: Africa
+
+- name: Sao Tome & Principe
+  visited: 0
+  region: Africa
+
+- name: Senegal
+  visited: 0
+  region: Africa
+
+- name: Sierra Leone
+  visited: 0
+  region: Africa
+
+- name: Somalia (Italian Somaliland)
+  visited: 0
+  region: Africa
+
+- name: Somaliland (Brit.)
+  visited: 0
+  region: Africa
+
+- name: South Africa
+  visited: 0
+  region: Africa
+
+- name: Sudan, North
+  visited: 0
+  region: Africa
+
+- name: Sudan, South
+  visited: 0
+  region: Africa
+
+- name: Swaziland
+  visited: 0
+  region: Africa
+
+- name: Tanzania (Tanganyika)
+  visited: 0
+  region: Africa
+
+- name: Togo
+  visited: 0
+  region: Africa
+
+- name: Tunisia
+  visited: 0
+  region: Africa
+
+- name: Uganda
+  visited: 0
+  region: Africa
+
+- name: Western Sahara (Spanish Sahara)
+  visited: 0
+  region: Africa
+
+- name: Zambia (No. Rhodesia)
+  visited: 0
+  region: Africa
+
+- name: Zanzibar
+  visited: 0
+  region: Africa
+
+- name: Zimbabwe (So. Rhodesia)
+  visited: 0
+  region: Africa
+
+- name: Argentine (Palmer Peninsula)
+  visited: 0
+  region: Antarctica
+
+- name: Australian Antarctic Territory South Pole (Mawson, Davis, Macquarie, Heard)
+  visited: 0
+  region: Antarctica
+
+- name: Chilean (Palmer Peninsula)
+  visited: 0
+  region: Antarctica
+
+- name: Falkland Islands Dependencies (British Antarctica, Graham Land, So. Shetland, So. Sandwich, So. Georgia, So. Orkney)
+  visited: 0
+  region: Antarctica
+
+- name: French Southern & Antarctic Territory (Kerguelen, Crozet, Amsterdam, St. Paul)
+  visited: 0
+  region: Antarctica
+
+- name: Norwegian (Queen Maud Land, Bouvet)
+  visited: 0
+  region: Antarctica
+
+- name: New Zealand (Ross Dependency)
+  visited: 0
+  region: Antarctica
+
+- name: Abkhazia
+  visited: 0
+  region: Asia
+
+- name: Afghanistan
+  visited: 0
+  region: Asia
+
+- name: Armenia (Yerevan)
+  visited: 0
+  region: Asia
+
+- name: Azerbaijan (Baku)
+  visited: 0
+  region: Asia
+
+- name: Bangladesh
+  visited: 0
+  region: Asia
+
+- name: Bhutan
+  visited: 0
+  region: Asia
+
+- name: Brunei
+  visited: 0
+  region: Asia
+
+- name: Cambodia
+  visited: 0
+  region: Asia
+
+- name: China, People’s Republic
+  visited: 0.5
+  region: Asia
+
+- name: Georgia
+  visited: 0
+  region: Asia
+
+- name: Hainan Island
+  visited: 0
+  region: Asia
+
+- name: Hong Kong
+  visited: 1
+  region: Asia
+
+- name: India
+  visited: 0
+  region: Asia
+
+- name: Indonesia (Java)
+  visited: 0
+  region: Asia
+
+- name: Irian Jaya (Dutch New Guinea)
+  visited: 0
+  region: Asia
+
+- name: Japan
+  visited: 1
+  region: Asia
+
+- name: Jeju Island (South Korea)
+  visited: 0
+  region: Asia
+
+- name: Kalimantan (Indonesian Borneo)
+  visited: 0
+  region: Asia
+
+- name: Kashmir
+  visited: 0
+  region: Asia
+
+- name: Kazakhstan
+  visited: 1
+  region: Asia
+
+- name: Kyrgyzstan
+  visited: 0
+  region: Asia
+
+- name: Korea, North
+  visited: 0.5
+  region: Asia
+
+- name: Korea, South
+  visited: 1
+  region: Asia
+
+- name: Laos
+  visited: 0
+  region: Asia
+
+- name: Lesser Sunda Islands (Bali,Timor, Indonesia)
+  visited: 0
+  region: Asia
+
+- name: Macau
+  visited: 1
+  region: Asia
+
+- name: Malaysia
+  visited: 1
+  region: Asia
+
+- name: Moluka
+  visited: 0
+  region: Asia
+
+- name: Mongolia, Republic
+  visited: 0
+  region: Asia
+
+- name: Myanmar (Burma)
+  visited: 0
+  region: Asia
+
+- name: Nakhichevan
+  visited: 0
+  region: Asia
+
+- name: Nepal
+  visited: 0
+  region: Asia
+
+- name: Pakistan
+  visited: 0
+  region: Asia
+
+- name: Philippines
+  visited: 0
+  region: Asia
+
+- name: Sabah (No. Borneo)
+  visited: 0
+  region: Asia
+
+- name: Sarawak
+  visited: 0
+  region: Asia
+
+- name: Siberia (Russia in Asia)
+  visited: 0
+  region: Asia
+
+- name: Sikkim
+  visited: 0
+  region: Asia
+
+- name: Singapore
+  visited: 1
+  region: Asia
+
+- name: Sri Lanka (Ceylon)
+  visited: 0
+  region: Asia
+
+- name: Sulawesi (Celebes, Indonesia)
+  visited: 0
+  region: Asia
+
+- name: Sumatra (Indonesia)
+  visited: 0
+  region: Asia
+
+- name: Taiwan. R.O.C.
+  visited: 0
+  region: Asia
+
+- name: Tajikistan
+  visited: 0
+  region: Asia
+
+- name: Thailand
+  visited: 1
+  region: Asia
+
+- name: Tibet
+  visited: 0
+  region: Asia
+
+- name: Timor Leste
+  visited: 0
+  region: Asia
+
+- name: Turkey in Asia (Anatolia, Ankara, Izmir)
+  visited: 1
+  region: Asia
+
+- name: Turkmenistan
+  visited: 0
+  region: Asia
+
+- name: Uzbekistan
+  visited: 0
+  region: Asia
+
+- name: Vietnam
+  visited: 0.5
+  region: Asia
+
+- name: Ascension
+  visited: 0
+  region: Atlantic Ocean
+
+- name: Azores Islands
+  visited: 0
+  region: Atlantic Ocean
+
+- name: Bermuda
+  visited: 0
+  region: Atlantic Ocean
+
+- name: Canary Islands
+  visited: 1
+  region: Atlantic Ocean
+
+- name: Cape Verde Islands
+  visited: 0
+  region: Atlantic Ocean
+
+- name: Falkland Islands
+  visited: 0
+  region: Atlantic Ocean
+
+- name: Fernando do Noronha
+  visited: 0
+  region: Atlantic Ocean
+
+- name: Faroe Islands
+  visited: 0
+  region: Atlantic Ocean
+
+- name: Greenland (Kalaallit Nunaat)
+  visited: 0
+  region: Atlantic Ocean
+
+- name: Iceland
+  visited: 1
+  region: Atlantic Ocean
+
+- name: Madeira
+  visited: 0
+  region: Atlantic Ocean
+
+- name: St. Helena
+  visited: 0
+  region: Atlantic Ocean
+
+- name: Tristan de Cunha
+  visited: 0
+  region: Atlantic Ocean
+
+- name: Anguilla
+  visited: 0
+  region: Caribbean
+
+- name: Antigua & Deps. (Barbuda, Redonda)
+  visited: 0
+  region: Caribbean
+
+- name: Aruba
+  visited: 0
+  region: Caribbean
+
+- name: Bahamas
+  visited: 0
+  region: Caribbean
+
+- name: Barbados
+  visited: 0
+  region: Caribbean
+
+- name: Bonaire
+  visited: 0
+  region: Caribbean
+
+- name: Cayman Islands
+  visited: 0
+  region: Caribbean
+
+- name: Cuba
+  visited: 0
+  region: Caribbean
+
+- name: Curacao
+  visited: 0
+  region: Caribbean
+
+- name: Dominica
+  visited: 0
+  region: Caribbean
+
+- name: Dominican Republic
+  visited: 0
+  region: Caribbean
+
+- name: Grenada & Deps. (Carriacou, Grenadines)
+  visited: 0
+  region: Caribbean
+
+- name: Guadeloupe & Deps.(Marie Galante)
+  visited: 0
+  region: Caribbean
+
+- name: Haiti
+  visited: 0
+  region: Caribbean
+
+- name: Jamaica
+  visited: 0
+  region: Caribbean
+
+- name: Leeward Islands, French (St. Martin)
+  visited: 0
+  region: Caribbean
+
+- name: Leeward Islands, Netherlands (Saba, St. Eustatius)
+  visited: 0
+  region: Caribbean
+
+- name: Martinique
+  visited: 0
+  region: Caribbean
+
+- name: Montserrat
+  visited: 0
+  region: Caribbean
+
+- name: Puerto Rico
+  visited: 0
+  region: Caribbean
+
+- name: St. Barts
+  visited: 0
+  region: Caribbean
+
+- name: San Andres & Providencia
+  visited: 0
+  region: Caribbean
+
+- name: St. Kitts & Nevis
+  visited: 0
+  region: Caribbean
+
+- name: St. Lucia
+  visited: 0
+  region: Caribbean
+
+- name: St. Maarten (formerly Netherlands Antilles)
+  visited: 0
+  region: Caribbean
+
+- name: St. Vincent & Deps. (Bequia, Canouan Grenadines)
+  visited: 0
+  region: Caribbean
+
+- name: Trinidad & Tobago
+  visited: 0
+  region: Caribbean
+
+- name: Turks & Caicos Islands
+  visited: 0
+  region: Caribbean
+
+- name: Virgin Islands, U.S. (St. Croix, St. John, St. Thomas)
+  visited: 0
+  region: Caribbean
+
+- name: Virgin Islands, British (Tortola, etc.)
+  visited: 0
+  region: Caribbean
+
+- name: Belize (British Honduras)
+  visited: 0
+  region: Central America
+
+- name: Costa Rica
+  visited: 0
+  region: Central America
+
+- name: El Salvador
+  visited: 0
+  region: Central America
+
+- name: Guatemala
+  visited: 0
+  region: Central America
+
+- name: Honduras
+  visited: 0
+  region: Central America
+
+- name: Nicaragua
+  visited: 0
+  region: Central America
+
+- name: Panama
+  visited: 0
+  region: Central America
+
+- name: Aland Islands (Mariehamn)
+  visited: 1
+  region: Europe & Mediteranean
+
+- name: Albania
+  visited: 0
+  region: Europe & Mediteranean
+
+- name: Andorra
+  visited: 0
+  region: Europe & Mediteranean
+
+- name: Austria
+  visited: 1
+  region: Europe & Mediteranean
+
+- name: Balearic Islands (Mallorca, Minorca)
+  visited: 1
+  region: Europe & Mediteranean
+
+- name: Belarus
+  visited: 0
+  region: Europe & Mediteranean
+
+- name: Belgium
+  visited: 1
+  region: Europe & Mediteranean
+
+- name: Bosnia & Herzegovina (Sarajevo)
+  visited: 1
+  region: Europe & Mediteranean
+
+- name: Bulgaria
+  visited: 0
+  region: Europe & Mediteranean
+
+- name: Corsica
+  visited: 0
+  region: Europe & Mediteranean
+
+- name: Crete
+  visited: 0
+  region: Europe & Mediteranean
+
+- name: Croatia
+  visited: 1
+  region: Europe & Mediteranean
+
+- name: Cyprus, Republic
+  visited: 0
+  region: Europe & Mediteranean
+
+- name: Cyprus, Turkish Fed. State
+  visited: 0
+  region: Europe & Mediteranean
+
+- name: Czech Republic
+  visited: 1
+  region: Europe & Mediteranean
+
+- name: Denmark
+  visited: 1
+  region: Europe & Mediteranean
+
+- name: Dodecanese Is. (Rhodes)
+  visited: 1
+  region: Europe & Mediteranean
+
+- name: England
+  visited: 1
+  region: Europe & Mediteranean
+
+- name: Estonia
+  visited: 1
+  region: Europe & Mediteranean
+
+- name: Finland
+  visited: 1
+  region: Europe & Mediteranean
+
+- name: France
+  visited: 1
+  region: Europe & Mediteranean
+
+- name: Germany
+  visited: 1
+  region: Europe & Mediteranean
+
+- name: Gibraltar
+  visited: 1
+  region: Europe & Mediteranean
+
+- name: Greece
+  visited: 0
+  region: Europe & Mediteranean
+
+- name: Guernsey & Deps (Alderney, Herm, Sark, Channel Islands)
+  visited: 1
+  region: Europe & Mediteranean
+
+- name: Hungary
+  visited: 0
+  region: Europe & Mediteranean
+
+- name: Ionian Islands (Corfu, etc.)
+  visited: 0
+  region: Europe & Mediteranean
+
+- name: Ireland (Eire)
+  visited: 1
+  region: Europe & Mediteranean
+
+- name: Ireland, Northern (Ulster)
+  visited: 1
+  region: Europe & Mediteranean
+
+- name: Isle of Man
+  visited: 1
+  region: Europe & Mediteranean
+
+- name: Italy
+  visited: 1
+  region: Europe & Mediteranean
+
+- name: Jersey (Channel Islands)
+  visited: 1
+  region: Europe & Mediteranean
+
+- name: Kaliningrad
+  visited: 0
+  region: Europe & Mediteranean
+
+- name: Kosovo
+  visited: 1
+  region: Europe & Mediteranean
+
+- name: Lampedusa
+  visited: 0
+  region: Europe & Mediteranean
+
+- name: Latvia
+  visited: 1
+  region: Europe & Mediteranean
+
+- name: Liechtenstein
+  visited: 0.5
+  region: Europe & Mediteranean
+
+- name: Lithuania
+  visited: 1
+  region: Europe & Mediteranean
+
+- name: Luxembourg
+  visited: 1
+  region: Europe & Mediteranean
+
+- name: Macedonia
+  visited: 1
+  region: Europe & Mediteranean
+
+- name: Malta
+  visited: 1
+  region: Europe & Mediteranean
+
+- name: Moldova
+  visited: 1
+  region: Europe & Mediteranean
+
+- name: Monaco
+  visited: 1
+  region: Europe & Mediteranean
+
+- name: Montenegro
+  visited: 1
+  region: Europe & Mediteranean
+
+- name: Netherlands
+  visited: 1
+  region: Europe & Mediteranean
+
+- name: Norway
+  visited: 1
+  region: Europe & Mediteranean
+
+- name: Poland
+  visited: 1
+  region: Europe & Mediteranean
+
+- name: Portugal
+  visited: 1
+  region: Europe & Mediteranean
+
+- name: Romania
+  visited: 1
+  region: Europe & Mediteranean
+
+- name: Russia
+  visited: 0
+  region: Europe & Mediteranean
+
+- name: San Marino
+  visited: 0
+  region: Europe & Mediteranean
+
+- name: Sardinia
+  visited: 0
+  region: Europe & Mediteranean
+
+- name: Scotland
+  visited: 1
+  region: Europe & Mediteranean
+
+- name: Serbia
+  visited: 1
+  region: Europe & Mediteranean
+
+- name: Sicily
+  visited: 0
+  region: Europe & Mediteranean
+
+- name: Slovakia
+  visited: 0
+  region: Europe & Mediteranean
+
+- name: Slovenia
+  visited: 1
+  region: Europe & Mediteranean
+
+- name: Spain
+  visited: 1
+  region: Europe & Mediteranean
+
+- name: Spitsbergen (Svalbard, Bear Island)
+  visited: 0
+  region: Europe & Mediteranean
+
+- name: Srpska
+  visited: 0.5
+  region: Europe & Mediteranean
+
+- name: Sweden
+  visited: 1
+  region: Europe & Mediteranean
+
+- name: Switzerland
+  visited: 1
+  region: Europe & Mediteranean
+
+- name: Trans Dniester
+  visited: 1
+  region: Europe & Mediteranean
+
+- name: Turkey in Europe (Istanbul)
+  visited: 0.5
+  region: Europe & Mediteranean
+
+- name: Ukraine
+  visited: 0
+  region: Europe & Mediteranean
+
+- name: Vatican City
+  visited: 1
+  region: Europe & Mediteranean
+
+- name: Wales
+  visited: 1
+  region: Europe & Mediteranean
+
+- name: Andaman-Nicobar Islands
+  visited: 0
+  region: Indian Ocean
+
+- name: British Indian Ocean Territory (Chagos Arch, Diego Garcia)
+  visited: 0
+  region: Indian Ocean
+
+- name: Christmas Island
+  visited: 0
+  region: Indian Ocean
+
+- name: Cocos Islands (Keeling)
+  visited: 0
+  region: Indian Ocean
+
+- name: Comoro Islands (Anjouan, Moheli, Grand Comoro)
+  visited: 0
+  region: Indian Ocean
+
+- name: Lakshadweep
+  visited: 0
+  region: Indian Ocean
+
+- name: Madagascar
+  visited: 0
+  region: Indian Ocean
+
+- name: Maldive Islands
+  visited: 0
+  region: Indian Ocean
+
+- name: Mauritius & Deps. (Agalega, St. Brandon)
+  visited: 0
+  region: Indian Ocean
+
+- name: Mayotte (Dzaoudzi)
+  visited: 0
+  region: Indian Ocean
+
+- name: Reunion & Deps. (Tromelin, Glorioso)
+  visited: 0
+  region: Indian Ocean
+
+- name: Rodriguez Island
+  visited: 0
+  region: Indian Ocean
+
+- name: Seychelles
+  visited: 0
+  region: Indian Ocean
+
+- name: Zil Elwannyen Sesel (Aldabra, Farquhar, Amirante Is.)
+  visited: 0
+  region: Indian Ocean
+
+- name: Abu Dhabi
+  visited: 1
+  region: Middle East
+
+- name: Ajman
+  visited: 0
+  region: Middle East
+
+- name: Bahrain
+  visited: 0
+  region: Middle East
+
+- name: Dubai
+  visited: 0
+  region: Middle East
+
+- name: Egypt in Asia (Sinai Peninsula)
+  visited: 0
+  region: Middle East
+
+- name: Fujeirah
+  visited: 0
+  region: Middle East
+
+- name: Iran
+  visited: 0
+  region: Middle East
+
+- name: Iraq
+  visited: 1
+  region: Middle East
+
+- name: Israel
+  visited: 0
+  region: Middle East
+
+- name: Jordan
+  visited: 0
+  region: Middle East
+
+- name: Kuwait
+  visited: 0
+  region: Middle East
+
+- name: Lebanon
+  visited: 0
+  region: Middle East
+
+- name: Oman
+  visited: 0
+  region: Middle East
+
+- name: Palestine
+  visited: 0
+  region: Middle East
+
+- name: Qatar
+  visited: 0
+  region: Middle East
+
+- name: Ras Al Khaimah
+  visited: 0
+  region: Middle East
+
+- name: Saudi Arabia
+  visited: 0
+  region: Middle East
+
+- name: Sharjah
+  visited: 0
+  region: Middle East
+
+- name: Syria
+  visited: 0
+  region: Middle East
+
+- name: Umm Al Qaiwain
+  visited: 0
+  region: Middle East
+
+- name: Yemen
+  visited: 0
+  region: Middle East
+
+- name: Alaska
+  visited: 0
+  region: North America
+
+- name: Canada
+  visited: 1
+  region: North America
+
+- name: Mexico
+  visited: 0
+  region: North America
+
+- name: Prince Edward Island
+  visited: 0
+  region: North America
+
+- name: St. Pierre & Miquelon
+  visited: 0
+  region: North America
+
+- name: United States (continental)
+  visited: 1
+  region: North America
+
+- name: Australia
+  visited: 0
+  region: Pacific Ocean
+
+- name: Bismark Archipelago (New Ireland, New Britain, Bougainville, Admiralty Islands)
+  visited: 0
+  region: Pacific Ocean
+
+- name: Chatham Islands
+  visited: 0
+  region: Pacific Ocean
+
+- name: Cook Islands (Rarotonga, Aitutaki, Penrhyn)
+  visited: 0
+  region: Pacific Ocean
+
+- name: Easter Island
+  visited: 0
+  region: Pacific Ocean
+
+- name: Fiji Islands
+  visited: 0
+  region: Pacific Ocean
+
+- name: French Polynesia (Tahiti,Tuamotu, Austral, Gambier)
+  visited: 0
+  region: Pacific Ocean
+
+- name: Galapagos Islands
+  visited: 0
+  region: Pacific Ocean
+
+- name: Guam
+  visited: 0
+  region: Pacific Ocean
+
+- name: Hawaiian Islands
+  visited: 0
+  region: Pacific Ocean
+
+- name: Juan Fernandez Islands (Robinson Crusoe Island)
+  visited: 0
+  region: Pacific Ocean
+
+- name: Kiribati (Gilberts,Tarawa, Ocean Island)
+  visited: 0
+  region: Pacific Ocean
+
+- name: Line/Phoenix Islands (Palmyra, Fanning, Christmas, Canton, Enderbury, Howland)
+  visited: 0
+  region: Pacific Ocean
+
+- name: Lord Howe Island
+  visited: 0
+  region: Pacific Ocean
+
+- name: Marquesas Islands
+  visited: 0
+  region: Pacific Ocean
+
+- name: Marshall Islands, Republic of (Majuro, Kwajalein, Eniwetok)
+  visited: 0
+  region: Pacific Ocean
+
+- name: Micronesia, Fed.States of (Pohnpei, Kosrae, Chuuk,Yap,Caroline Islands)
+  visited: 0
+  region: Pacific Ocean
+
+- name: Midway Island
+  visited: 0
+  region: Pacific Ocean
+
+- name: Nauru
+  visited: 0
+  region: Pacific Ocean
+
+- name: New Caledonia & Deps. (Noumea, Loyalty Islands)
+  visited: 0
+  region: Pacific Ocean
+
+- name: New Zealand
+  visited: 0
+  region: Pacific Ocean
+
+- name: Niue
+  visited: 0
+  region: Pacific Ocean
+
+- name: Norfolk Island
+  visited: 0
+  region: Pacific Ocean
+
+- name: Northern Marianas (Saipan, Tinian)
+  visited: 0
+  region: Pacific Ocean
+
+- name: Ogasawara (Bonin, Volcano Island, Iwo Jima)
+  visited: 0
+  region: Pacific Ocean
+
+- name: Palau, Republic of
+  visited: 0
+  region: Pacific Ocean
+
+- name: Papua New Guinea
+  visited: 0
+  region: Pacific Ocean
+
+- name: Pitcairn Island
+  visited: 0
+  region: Pacific Ocean
+
+- name: Ryukyu Islands (Okinawa)
+  visited: 0
+  region: Pacific Ocean
+
+- name: Samoa, American (Pago Pago)
+  visited: 0
+  region: Pacific Ocean
+
+- name: Samoa (Apia)
+  visited: 0
+  region: Pacific Ocean
+
+- name: Solomon Islands (Guadalcanal, New Georgia,Tulagi)
+  visited: 0
+  region: Pacific Ocean
+
+- name: Tasmania
+  visited: 0
+  region: Pacific Ocean
+
+- name: Tokelau Islands (Fakaofu, Atafu, Union)
+  visited: 0
+  region: Pacific Ocean
+
+- name: Tonga (Nukualofa)
+  visited: 0
+  region: Pacific Ocean
+
+- name: Tuvalu (Ellice Island, Funafuti, Vaitapu)
+  visited: 0
+  region: Pacific Ocean
+
+- name: Vanuatu (New Hebrides Islands)
+  visited: 0
+  region: Pacific Ocean
+
+- name: Wake Island
+  visited: 0
+  region: Pacific Ocean
+
+- name: Wallis & Futuna Islands
+  visited: 0
+  region: Pacific Ocean
+
+- name: Argentina
+  visited: 0
+  region: South America
+
+- name: Bolivia
+  visited: 0
+  region: South America
+
+- name: Brazil
+  visited: 0
+  region: South America
+
+- name: Chile
+  visited: 0
+  region: South America
+
+- name: Colombia
+  visited: 0
+  region: South America
+
+- name: Ecuador
+  visited: 0
+  region: South America
+
+- name: French Guiana
+  visited: 0
+  region: South America
+
+- name: Guyana (British Guiana)
+  visited: 0
+  region: South America
+
+- name: Nueva Esparta (Margarita Island)
+  visited: 0
+  region: South America
+
+- name: Paraguay
+  visited: 0
+  region: South America
+
+- name: Peru
+  visited: 0
+  region: South America
+
+- name: Suriname (Netherlands Guiana)
+  visited: 0
+  region: South America
+
+- name: Uruguay
+  visited: 0
+  region: South America
+
+- name: Venezuela
+  visited: 0
+  region: South America
+
