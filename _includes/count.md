@@ -9,6 +9,6 @@
 {% endfor %}
 
 visited countries: {{ visited_country_count }}<br>
-countries left for provisional TCC membership: {{ 75 | minus:visited_country_count }}<br>
-countries left for full TCC membership: {{ 100 | minus:visited_country_count }}<br>
+countries left for provisional <abbr title="Travelers Century Club">TCC</abbr> membership: {{ 75 | minus:visited_country_count }}<br>
+countries left for full <abbr title="Travelers Century Club">TCC</abbr> membership: {{ 100 | minus:visited_country_count }}<br>
 percentage of countries visited: {{ visited_country_count | times:100 | divided_by:countries_size | round: 2}} %<br>
