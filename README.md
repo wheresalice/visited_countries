@@ -1,19 +1,18 @@
-# tcc_countries
+# Alice's Visited Countries
 
-This is very much designed around Alice's workflow.  You're welcome to use it, but you may need a lot of modifications.  If you do reuse it, feel free to push any fixes.
+This project is Alice's method of keeping track of which countries they have visited.  It is a single-page Jekyll website designed to be hosted on github-pages and edited using forestry.io.  It should work perfectly fine elsewhere though.
 
-Put a csv file of the countries visited in the root of this project called "TCC Countries - The Big List.csv".  This file has no headers, and the columns "country", "visited", "region".  Where visited is one of 0, 0.5, 1.
+You should now be able to quite easily clone this and run it for yourself, editing _config.yml and _data/countries.yaml as appropriate.
 
-Run generate.rb to generate the data files for Jekyll to use
+## Usage:
+- `bundle` to install dependencies
+- `bundle exec jekyll --watch` to preview locally
 
-Run jekyll serve
+You can either edit `_data/countries.yaml` locally or use forestry.io to maintain this.
 
 ## Building Blocks
 
 * [Solo](http://chibicode.github.io/solo/)
 * [Jekyll](http://jekyllrb.com/)
 * [Colors](http://clrs.cc/)
-
-## License
-
-Solo is licensed under the MIT License, the list of TCC Countries is maintained by the travellers century club.  Everything else is MIT Licensed.
+* [Forestry.io](https://forestry.io/)
