@@ -174,11 +174,11 @@
   visited: 0
   region: Africa
 
-- name: Sudan, North
+- name: South Sudan
   visited: 0
   region: Africa
 
-- name: Sudan, South
+- name: Sudan
   visited: 0
   region: Africa
 
@@ -217,34 +217,6 @@
 - name: Zimbabwe (So. Rhodesia)
   visited: 0
   region: Africa
-
-- name: Argentine (Palmer Peninsula)
-  visited: 0
-  region: Antarctica
-
-- name: Australian Antarctic Territory South Pole (Mawson, Davis, Macquarie, Heard)
-  visited: 0
-  region: Antarctica
-
-- name: Chilean (Palmer Peninsula)
-  visited: 0
-  region: Antarctica
-
-- name: Falkland Islands Dependencies (British Antarctica, Graham Land, So. Shetland, So. Sandwich, So. Georgia, So. Orkney)
-  visited: 0
-  region: Antarctica
-
-- name: French Southern & Antarctic Territory (Kerguelen, Crozet, Amsterdam, St. Paul)
-  visited: 0
-  region: Antarctica
-
-- name: Norwegian (Queen Maud Land, Bouvet)
-  visited: 0
-  region: Antarctica
-
-- name: New Zealand (Ross Dependency)
-  visited: 0
-  region: Antarctica
 
 - name: Abkhazia
   visited: 0
@@ -299,10 +271,6 @@
   region: Asia
 
 - name: Indonesia (Java)
-  visited: 0
-  region: Asia
-
-- name: Irian Jaya (Dutch New Guinea)
   visited: 0
   region: Asia
 
@@ -366,7 +334,7 @@
   visited: 0
   region: Asia
 
-- name: Nakhichevan
+- name: Nakhchivan
   visited: 0
   region: Asia
 
@@ -375,6 +343,10 @@
   region: Asia
 
 - name: Pakistan
+  visited: 0
+  region: Asia
+
+- name: Papua (Irian Jaya)
   visited: 0
   region: Asia
 
@@ -498,7 +470,7 @@
   visited: 0
   region: Atlantic Ocean
 
-- name: Tristan de Cunha
+- name: Tristan da Cunha
   visited: 0
   region: Atlantic Ocean
 
@@ -967,6 +939,10 @@
   region: Indian Ocean
 
 - name: Seychelles
+  visited: 0
+  region: Indian Ocean
+
+- name: Socotra
   visited: 0
   region: Indian Ocean
 
