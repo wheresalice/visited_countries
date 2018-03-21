@@ -2,3 +2,5 @@ markdown: redcarpet
 
 title_tag_text: Alice's Visited Countries
 h1_tag_text: Alice's Visited Countries
+include:
+  - _headers
