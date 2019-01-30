@@ -1,46 +1,41 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ site.title_tag_text }}</title>
-    <link href='https://fonts.googleapis.com/css?family=Roboto:400,400italic,700' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" href="css/normalize.css">
-    <link rel="stylesheet" href="css/solo.css">
+<meta charset=utf-8>
+<meta http-equiv=X-UA-Compatible content="IE=edge">
+<meta name=viewport content="width=device-width, initial-scale=1.0">
+<title>{{ site.title_tag_text }}</title>
+<link rel=stylesheet href=css/normalize.css>
+<link rel=stylesheet href=css/solo.css>
 </head>
 <body>
-<div class="container">
-    <h1><a href="/" name="top">{{ site.h1_tag_text }}</a></h1>
-    <div class="count">{% include count.md %}</div>
-
-    {% assign countries = site.data.countries %}
-
-    <h3>Continents</h3>
-    {% assign regions = countries | map:'region' | uniq | sort %}
-    {% for region in regions %}
-    * <a href="#{{ region }}">{{ region }}</a>
-    {% endfor %}
-
-    <h3>Key</h3>
-    <ul>
-        <li class="visited1">Visited</li>
-        <li class="visited0.5">Transited</li>
-        <li class="visited0">Not Visited</li>
-    </ul>
-
-    {% for region in regions %}
-    <h2><a name="{{ region }}">{{ region }}</a></h2>
-    <ul>
-        {% assign region_countries = countries | where: 'region', region %}
-        {% for country in region_countries %}
-        <li class="visited{{ country.visited }}">
-            {{ country.name }}
-        </li>
-        {% endfor %}
-    </ul>
-    <a href="#top">top</a>
-    {% endfor %}
+<div class=container>
+<h1><a href=/ name=top>{{ site.h1_tag_text }}</a></h1>
+<div class=count>{% include count.md %}</div>
+{% assign countries = site.data.countries %}
+<h3>Continents</h3>
+{% assign regions = countries | map:'region' | uniq | sort %}
+{% for region in regions %}
+* <a href="#{{ region }}">{{ region }}</a>
+{% endfor %}
+<h3>Key</h3>
+<ul>
+<li class=visited1>Visited</li>
+<li class=visited0.5>Transited</li>
+<li class=visited0>Not Visited</li>
+</ul>
+{% for region in regions %}
+<h2><a name="{{ region }}">{{ region }}</a></h2>
+<ul>
+{% assign region_countries = countries | where: 'region', region %}
+{% for country in region_countries %}
+<li class="visited{{ country.visited }}">
+{{ country.name }}
+</li>
+{% endfor %}
+</ul>
+<a href=#top>top</a>
+{% endfor %}
 </div>
 </body>
 </html>
