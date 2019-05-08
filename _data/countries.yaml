@@ -38,11 +38,11 @@
   visited: 0
   region: Africa
 
-- name: Republic of Congo
+- name: Republic of the Congo (Brazzaville)
   visited: 0
   region: Africa
 
-- name: Democratic Republic of Congo
+- name: Democratic Republic of the Congo (Kinshasa)
   visited: 0
   region: Africa
 
@@ -54,7 +54,7 @@
   visited: 0
   region: Africa
 
-- name: Equatorial Guinea (Bioko Fernando Poo)
+- name: Equatorial Guinea (Bioko)
   visited: 0
   region: Africa
 
@@ -82,7 +82,7 @@
   visited: 0
   region: Africa
 
-- name: Guinea (French)
+- name: Guinea (French Guinea)
   visited: 0
   region: Africa
 
@@ -166,7 +166,7 @@
   visited: 0
   region: Africa
 
-- name: Somaliland (Brit.)
+- name: Somaliland (British)
   visited: 0
   region: Africa
 
@@ -217,6 +217,34 @@
 - name: Zimbabwe (So. Rhodesia)
   visited: 0
   region: Africa
+
+- name: Argentine Antarctica (Antarctic Peninsula)
+  visited: 0
+  region: Antarctica
+
+- name: Australian Antarctic Territory (Mawson, Davis, Macquarie, Heard)
+  visited: 0
+  region: Antarctica
+
+- name: British Antarctic Territory (Graham Land, South Orkney, South Shetland)
+  visited: 0
+  region: Antarctica
+
+- name: Chilean Antarctic Territory (Antarctic Peninsula)
+  visited: 0
+  region: Antarctica
+
+- name: French Southern & Antarctic Lands (Adélie Land, Kerguelen, Amsterdam, St. Paul, Crozet, Îles Éparses)
+  visited: 0
+  region: Antarctica
+
+- name: New Zealand Antarctica (Ross Dependency)
+  visited: 0
+  region: Antarctica
+
+- name: Norwegian Dependencies (Queen Maud Land, Bouvet)
+  visited: 0
+  region: Antarctica
 
 - name: Abkhazia
   visited: 1
@@ -322,7 +350,7 @@
   visited: 1
   region: Asia
 
-- name: Moluka
+- name: Maluku Islands
   visited: 0
   region: Asia
 
@@ -354,15 +382,15 @@
   visited: 0
   region: Asia
 
-- name: Sabah (No. Borneo)
+- name: Russia in Asia (incl. Siberia)
+  visited: 0
+  region: Asia
+
+- name: Sabah (North Borneo)
   visited: 0
   region: Asia
 
 - name: Sarawak
-  visited: 0
-  region: Asia
-
-- name: Siberia (Russia in Asia)
   visited: 0
   region: Asia
 
@@ -402,7 +430,7 @@
   visited: 0
   region: Asia
 
-- name: Timor Leste
+- name: Timor-Leste
   visited: 0
   region: Asia
 
@@ -446,7 +474,7 @@
   visited: 0
   region: Atlantic Ocean
 
-- name: Fernando do Noronha
+- name: Fernando de Noronha
   visited: 0
   region: Atlantic Ocean
 
@@ -466,6 +494,10 @@
   visited: 0
   region: Atlantic Ocean
 
+- name: South Georgia & the South Sandwich Islands
+  visited: 0
+  region: Atlantic Ocean
+
 - name: St. Helena
   visited: 0
   region: Atlantic Ocean
@@ -478,7 +510,7 @@
   visited: 0
   region: Caribbean
 
-- name: Antigua & Deps. (Barbuda, Redonda)
+- name: Antigua & Barbuda
   visited: 0
   region: Caribbean
 
@@ -522,7 +554,7 @@
   visited: 0
   region: Caribbean
 
-- name: Guadeloupe & Deps.(Marie Galante)
+- name: Guadeloupe & Deps. (Marie Galante)
   visited: 0
   region: Caribbean
 
@@ -531,14 +563,6 @@
   region: Caribbean
 
 - name: Jamaica
-  visited: 0
-  region: Caribbean
-
-- name: Leeward Islands, French (St. Martin)
-  visited: 0
-  region: Caribbean
-
-- name: Leeward Islands, Netherlands (Saba, St. Eustatius)
   visited: 0
   region: Caribbean
 
@@ -554,7 +578,11 @@
   visited: 0
   region: Caribbean
 
-- name: St. Barts
+- name: Saba & Sint Eustatius
+  visited: 0
+  region: Caribbean
+
+- name: Saint-Barthélemy
   visited: 0
   region: Caribbean
 
@@ -570,11 +598,15 @@
   visited: 0
   region: Caribbean
 
-- name: St. Maarten (formerly Netherlands Antilles)
+- name: Saint-Martin (France)
   visited: 0
   region: Caribbean
 
-- name: St. Vincent & Deps. (Bequia, Canouan Grenadines)
+- name: Sint Maarten (Netherlands)
+  visited: 0
+  region: Caribbean
+
+- name: St. Vincent & the Grenadines
   visited: 0
   region: Caribbean
 
@@ -650,7 +682,7 @@
   visited: 1
   region: Europe & Mediteranean
 
-- name: Bosnia & Herzegovina (Sarajevo)
+- name: Bosnia & Herzegovina
   visited: 1
   region: Europe & Mediteranean
 
@@ -670,6 +702,10 @@
   visited: 1
   region: Europe & Mediteranean
 
+- name: Cyprus, British Sovereign Base Areas of Akrotiri & Dhekelia
+  visited: 0
+  region: Europe & Mediteranean
+
 - name: Cyprus, Republic
   visited: 0
   region: Europe & Mediteranean
@@ -686,7 +722,7 @@
   visited: 1
   region: Europe & Mediteranean
 
-- name: Dodecanese Is. (Rhodes)
+- name: Greek Aegean Islands (Cyclades, Dodecanese,Northern Aegean Islands)
   visited: 1
   region: Europe & Mediteranean
 
@@ -718,7 +754,7 @@
   visited: 0
   region: Europe & Mediteranean
 
-- name: Guernsey & Deps (Alderney, Herm, Sark, Channel Islands)
+- name: Guernsey & Deps. (Alderney, Herm, Sark, Channel Islands)
   visited: 1
   region: Europe & Mediteranean
 
@@ -870,7 +906,7 @@
   visited: 1
   region: Europe & Mediteranean
 
-- name: Trans Dniester
+- name: Transnistria (Pridnestrovie)
   visited: 1
   region: Europe & Mediteranean
 
@@ -894,7 +930,7 @@
   visited: 0
   region: Indian Ocean
 
-- name: British Indian Ocean Territory (Chagos Arch, Diego Garcia)
+- name: British Indian Ocean Territory (Chagos Archipelago, Diego Garcia)
   visited: 0
   region: Indian Ocean
 
@@ -902,11 +938,11 @@
   visited: 0
   region: Indian Ocean
 
-- name: Cocos Islands (Keeling)
+- name: Cocos (Keeling) Islands
   visited: 0
   region: Indian Ocean
 
-- name: Comoro Islands (Anjouan, Moheli, Grand Comoro)
+- name: Comoros (Anjouan, Moheli, Grand Comoro)
   visited: 0
   region: Indian Ocean
 
@@ -918,11 +954,11 @@
   visited: 0
   region: Indian Ocean
 
-- name: Maldive Islands
+- name: Maldives
   visited: 0
   region: Indian Ocean
 
-- name: Mauritius & Deps. (Agalega, St. Brandon)
+- name: Mauritius & Dependencies (Agalega, St. Brandon)
   visited: 0
   region: Indian Ocean
 
@@ -930,11 +966,11 @@
   visited: 0
   region: Indian Ocean
 
-- name: Reunion & Deps. (Tromelin, Glorioso)
+- name: Reunion & Dependencies (Tromelin, Glorioso)
   visited: 0
   region: Indian Ocean
 
-- name: Rodriguez Island
+- name: Rodrigues Island
   visited: 0
   region: Indian Ocean
 
@@ -946,7 +982,7 @@
   visited: 0
   region: Indian Ocean
 
-- name: Zil Elwannyen Sesel (Aldabra, Farquhar, Amirante Is.)
+- name: Zil Elwannyen Sesel (Aldabra, Farquhar, Amirante Islands)
   visited: 0
   region: Indian Ocean
 
@@ -970,7 +1006,7 @@
   visited: 0
   region: Middle East
 
-- name: Fujeirah
+- name: Fujairah
   visited: 0
   region: Middle East
 
@@ -1054,7 +1090,7 @@
   visited: 0
   region: North America
 
-- name: United States (continental)
+- name: United States (Contiguous)
   visited: 1
   region: North America
 
@@ -1062,7 +1098,7 @@
   visited: 0
   region: Pacific Ocean
 
-- name: Bismark Archipelago (New Ireland, New Britain, Bougainville, Admiralty Islands)
+- name: Bismarck Archipelago (New Ireland, New Britain, Bougainville, Admiralty Islands)
   visited: 0
   region: Pacific Ocean
 
@@ -1106,7 +1142,7 @@
   visited: 0
   region: Pacific Ocean
 
-- name: Line/Phoenix Islands (Palmyra, Fanning, Christmas, Canton, Enderbury, Howland)
+- name: Line/Phoenix Islands (Fanning, Christmas, Canton, Enderbury)
   visited: 0
   region: Pacific Ocean
 
