@@ -999,7 +999,7 @@
   region: Middle East
 
 - name: Dubai
-  visited: 0
+  visited: 1
   region: Middle East
 
 - name: Egypt in Asia (Sinai Peninsula)
@@ -1035,7 +1035,7 @@
   region: Middle East
 
 - name: Oman
-  visited: 0
+  visited: 0.5
   region: Middle East
 
 - name: Palestine
