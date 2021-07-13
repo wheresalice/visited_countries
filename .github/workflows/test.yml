@@ -1,0 +1,17 @@
+name: test
+on:
+  pull_request:
+    branches: [gh-pages]
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@477b21f02be01bcb8030d50f37cfec92bfa615b6
+        with:
+          ruby-version: 2.6
+      - name: install deps
+        run: bundle install
+      - name: test
+        run: bundle exec jekyll build
