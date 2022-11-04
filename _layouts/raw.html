@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 <meta charset=utf-8>
 <meta http-equiv=X-UA-Compatible content="IE=edge">
@@ -25,7 +25,7 @@
 <li class=visited0>Not Visited</li>
 </ul>
 {% for region in regions %}
-<h2><a name="{{ region }}">{{ region }}</a></h2>
+<h2><a id="{{ region }}">{{ region }}</a></h2>
 <ul>
 {% assign region_countries = countries | where: 'region', region %}
 {% for country in region_countries %}
