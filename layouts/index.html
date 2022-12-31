@@ -31,7 +31,7 @@
               <td>countries left for full <abbr title="Travelers Century Club">TCC</abbr> membership</td><td>{{ sub 100 $visitedCount}}</td>
             </tr>
             <tr>
-              <td>percentage visited</td><td>{{ div (where $.Site.Data.countries ".visited" "gt" 0 | len) ($.Site.Data.countries | len)}}</td>
+              <td>percentage visited</td><td>{{ mul (div (float $visitedCount) ($.Site.Data.countries | len)) 100 | printf "%18.1f"}}</td>
             </tr>
         </table>
       </section>
