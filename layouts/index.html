@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en" color-mode="user">
+  <head>
+    <meta charset="utf-8">
+    <title>Alice's Visited Countries</title>
+    <link rel="me" src="https://wheresalice.info">
+    <link rel="stylesheet" href="https://unpkg.com/mvp.css@1.12/mvp.css"> 
+  </head>
+  <body>
+      {{ $regions := apply $.Site.Data.countries "index" "." "region"| uniq}}
+      {{ $visitedCount := where $.Site.Data.countries ".visited" "gt" 0 | len}}
+      <header>
+        <nav>
+          <ul>
+            {{ range $regions }}
+            <li><a href="#{{.}}">{{.}}</a></li>
+            {{ end }}
+          </ul>
+        </nav>
+      </header>
+    <main>
+      <section>
+        <table>
+            <tr>
+              <td>visited countries</td><td>{{ $visitedCount}}</td>
+            </tr>
+            <tr>
+              <td>countries left for provisional <abbr title="Travelers Century Club">TCC</abbr> membership</td><td>{{ sub 75 $visitedCount}}</td>
+            </tr>
+            <tr>
+              <td>countries left for full <abbr title="Travelers Century Club">TCC</abbr> membership</td><td>{{ sub 100 $visitedCount}}</td>
+            </tr>
+            <tr>
+              <td>percentage visited</td><td>{{ div (where $.Site.Data.countries ".visited" "gt" 0 | len) ($.Site.Data.countries | len)}}</td>
+            </tr>
+        </table>
+      </section>
+      {{ range $regions }}
+      <h2><a id="{{ . }}">{{ . }}</a></h2>
+      <ul>
+        {{ range where $.Site.Data.countries ".region" .}}
+        {{ if eq .visited 0}}<li>❌ {{ .name }}</li>{{ end }}
+        {{ if eq .visited 0.5}}<li>✈️ {{ .name }}</li>{{ end }}
+        {{ if eq .visited 1}}<li>✅ {{ .name }}</li>{{ end }}
+        {{ end }}
+      </ul>
+      {{ end }}
+    </main>
+  </body>
+</html>

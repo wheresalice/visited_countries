@@ -1,18 +1,15 @@
 # Alice's Visited Countries
 
-This project is Alice's method of keeping track of which countries they have visited.  It is a single-page Jekyll website designed to be hosted on github-pages and edited using forestry.io.  It should work perfectly fine elsewhere though.
+A hugo-based website listing which countries Alice has visited
 
-You should now be able to quite easily clone this and run it for yourself, editing _config.yml and _data/countries.yaml as appropriate.
+Update country statuses in `data/countries.yaml`
 
-## Usage:
-- `bundle` to install dependencies
-- `bundle exec jekyll --watch` to preview locally
+## Changelog
 
-You can either edit `_data/countries.yaml` locally or use forestry.io to maintain this.
+Previous versions of this used Jekyll, but this was becoming increasingly difficult to keep working. While migrating to Hugo the page was completely redesigned to respect darkmode and show emojis for visited status. It's kinda ugly, but more functional and easier to maintain.
 
 ## Building Blocks
 
-* [Solo](http://chibicode.github.io/solo/)
-* [Jekyll](http://jekyllrb.com/)
-* [Colors](http://clrs.cc/)
-* [Forestry.io](https://forestry.io/)
+* [Hugo](https://gohugo.io/)
+* [MVP.css](https://andybrewer.github.io/mvp/)
+* [Netlify](https://www.netlify.com/)
