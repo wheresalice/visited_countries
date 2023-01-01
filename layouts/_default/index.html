@@ -31,10 +31,15 @@
       <h2><a id="{{ . }}">{{ . }}</a></h2>
       <ul>
         {{ range where $.Site.Data.countries ".region" .}}
-        {{ $nameSlug := urlize .name}}
-        {{ if eq .visited 0}}<li>❌ {{ .name }} {{ if os.FileExists (printf "country/%s.md" $nameSlug) }}<a href="{{ printf "/country/%s" $nameSlug}}">🔗</a>{{ end }}</li>{{ end }}
-        {{ if eq .visited 0.5}}<li>✈️ {{ .name }} {{ if os.FileExists (printf "country/%s.md" $nameSlug) }}<a href="{{ printf "/country/%s" $nameSlug}}">🔗</a>{{ end }}</li>{{ end }}
-        {{ if eq .visited 1}}<li>✅ {{ .name }} {{ if os.FileExists (printf "country/%s.md" $nameSlug) }}<a href="{{ printf "/country/%s" $nameSlug}}">🔗</a>{{ end }}</li>{{ end }}
+          {{ $nameSlug := urlize .name}}
+          {{ $countryIcon := "❌"}}
+          {{ if eq .visited 0.5 }}
+            {{ $countryIcon = "✈️"}}
+          {{ else if eq .visited 1 }}
+            {{ $countryIcon = "✅"}}
+          {{ end }}
+          {{ printf "<!-- %s.md -->" $nameSlug | safeHTML}}
+          <li>{{ $countryIcon}} {{ .name }} {{ if os.FileExists (printf "country/%s.md" $nameSlug) }}<a href="{{ printf "/country/%s" $nameSlug}}">🔗</a>{{ end }}</li> 
         {{ end }}
       </ul>
       {{ end }}
