@@ -1,3 +1,5 @@
 languageCode = 'en-us'
 title = "Alice's Visited Countries"
 baseURL = "https://countries.wheresalice.info"
+[frontmatter]
+lastmod = ["lastmod", ":git"]

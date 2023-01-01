@@ -1,13 +1,4 @@
-<!doctype html>
-<html lang="en" color-mode="user">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Alice's Visited Countries</title>
-    <link rel="me" src="https://wheresalice.info">
-    <link rel="stylesheet" href="https://unpkg.com/mvp.css@1.12/mvp.css"> 
-  </head>
-  <body>
+{{ define "main" }}
       {{ $regions := apply $.Site.Data.countries "index" "." "region"| uniq}}
       {{ $visitedCount := where $.Site.Data.countries ".visited" "gt" 0 | len}}
       <header>
@@ -40,12 +31,12 @@
       <h2><a id="{{ . }}">{{ . }}</a></h2>
       <ul>
         {{ range where $.Site.Data.countries ".region" .}}
-        {{ if eq .visited 0}}<li>❌ {{ .name }}</li>{{ end }}
-        {{ if eq .visited 0.5}}<li>✈️ {{ .name }}</li>{{ end }}
-        {{ if eq .visited 1}}<li>✅ {{ .name }}</li>{{ end }}
+        {{ $nameSlug := urlize .name}}
+        {{ if eq .visited 0}}<li>❌ {{ .name }} {{ if os.FileExists (printf "country/%s.md" $nameSlug) }}<a href="{{ printf "/country/%s" $nameSlug}}">🔗</a>{{ end }}</li>{{ end }}
+        {{ if eq .visited 0.5}}<li>✈️ {{ .name }} {{ if os.FileExists (printf "country/%s.md" $nameSlug) }}<a href="{{ printf "/country/%s" $nameSlug}}">🔗</a>{{ end }}</li>{{ end }}
+        {{ if eq .visited 1}}<li>✅ {{ .name }} {{ if os.FileExists (printf "country/%s.md" $nameSlug) }}<a href="{{ printf "/country/%s" $nameSlug}}">🔗</a>{{ end }}</li>{{ end }}
         {{ end }}
       </ul>
       {{ end }}
     </main>
-  </body>
-</html>
+{{ end }}
