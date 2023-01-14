@@ -127,7 +127,7 @@
   region: Africa
 
 - name: Morocco
-  visited: 0
+  visited: 1
   region: Africa
 
 - name: Morocco, Spanish (Ceuta, Melilla)
