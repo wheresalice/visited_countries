@@ -242,7 +242,7 @@
   visited: 0
   region: Antarctica
 
-- name: Norwegian Dependencies (Bouvet, Queen Maud Land)
+- name: Norwegian Dependencies (Bouvet, Peter I Island, Queen Maud Land)
   visited: 0
   region: Antarctica
 
@@ -577,6 +577,10 @@
 - name: Montserrat
   visited: 0
   region: Caribbean
+  
+- name: Nevis
+  visited: 0
+  region: Caribbean
 
 - name: Puerto Rico
   visited: 0
@@ -594,7 +598,7 @@
   visited: 0
   region: Caribbean
 
-- name: St. Kitts & Nevis
+- name: St. Kitts
   visited: 0
   region: Caribbean
 
@@ -726,7 +730,7 @@
   visited: 1
   region: Europe & Mediteranean
 
-- name: Greek Aegean Islands (Cyclades, Dodecanese,Northern Aegean Islands)
+- name: Greek Aegean Islands (Cyclades, Dodecanese, Northern Aegean Islands)
   visited: 1
   region: Europe & Mediteranean
 
