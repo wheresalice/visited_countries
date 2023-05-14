@@ -577,7 +577,7 @@
 - name: Montserrat
   visited: 0
   region: Caribbean
-  
+
 - name: Nevis
   visited: 0
   region: Caribbean
@@ -919,7 +919,7 @@
   region: Europe & Mediteranean
 
 - name: Turkey in Europe (Istanbul)
-  visited: 0.5
+  visited: 1
   region: Europe & Mediteranean
 
 - name: Ukraine
